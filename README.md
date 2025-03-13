@@ -8,8 +8,6 @@ Welcome to the **Portals from Earth** wiki. This document provides an overview o
 
 Portals from Earth is an interactive, story creation game. Each day, a new portal opens, presenting you with a challenge that includes 2880 possible questions. Only one specific path gives you a 50/50 shot at ultimate victory or ultimate defeat.
 
-*Please note: The game is still in its early stages and will be updated shortly.*
-
 ---
 
 ## How to Play
